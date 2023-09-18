@@ -1,0 +1,29 @@
+.ear1{
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    position: relative;
+    top: 38px;
+    left: 175px;
+}
+.ear2{
+    width: 25px;
+    height: 25px;
+    border-radius: 12.5px;
+    position: relative;
+    top: 13PX;
+    left:125px;
+}
+.face{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+
+.ear1,
+.ear2,
+.face{
+    background-color: black;
+}
